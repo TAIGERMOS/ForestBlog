@@ -5,8 +5,8 @@ import lombok.Data;
 import java.util.List;
 
 /**
- * @author 言曌
- * @date 2018/11/25 下午3:56
+ * @author Aaron
+ * @date 2021/11/25 下午3:56
  */
 @Data
 public class ArticleParam {
