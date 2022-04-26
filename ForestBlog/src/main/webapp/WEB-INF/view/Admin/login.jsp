@@ -105,7 +105,7 @@
         wp_attempt_focus();
         if(typeof wpOnload=='function')wpOnload();
     </script>
-    <p id="backtoblog"><a href="/">&larr; 返回到风吟博客</a> | <a href="/register">注册</a></p>
+    <p id="backtoblog"><a href="/">&larr; 返回Aaron's Blog</a> | <a href="/register">注册</a></p>
 
 </div>
 

@@ -100,7 +100,7 @@
                     </p>
                 </form>
 
-                <p id="backtoblog"><a href="/">&larr; 返回到风吟博客</a> | <a href="/login">登录</a></p>
+                <p id="backtoblog"><a href="/">&larr; 返回到Aaron's Blog</a> | <a href="/login">登录</a></p>
 
             </div>
 
